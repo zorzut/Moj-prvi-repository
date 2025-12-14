@@ -1,3 +1,6 @@
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-blue?logo=postgresql&logoColor=white)
 # Moj-prvi-repository
 
 ##
