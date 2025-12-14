@@ -9,7 +9,7 @@ To je moj prvi GitHub repozitorij, kjer se učim osnov dela z GitHubom.
 - Kaj je README.md
 - Kako narediti commit
 
-Učim se HTML, Javo in SQL.
+Učim se HTML, Javo in SQL.💻 
 
 ## Zabavna stvar o meni
 Nisem uporabil Chat-GPT-ja za to.
